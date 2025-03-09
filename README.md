@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Movie nest</h1>
+<p>MovieNest is a React-powered movie app that lets you search for films and create a personalized favorites list. Powered by The Movie Database (TMDb) API, it provides detailed movie information, including ratings, posters, and descriptions. With a clean and responsive design, MovieNest makes it easy to discover, track, and revisit your favorite films anytime.</p>
